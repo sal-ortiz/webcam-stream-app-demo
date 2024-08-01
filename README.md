@@ -15,3 +15,5 @@ usage: .\app.py [FLAGS]
     --snapshots <folder>    override default snapshots folder [snapshots]
     --device <id>           override default device id [0]
 ```
+### Extra
+The file `streaming_demo.py` illustrates basically how to use OpenCV to stream and take snapshots.
