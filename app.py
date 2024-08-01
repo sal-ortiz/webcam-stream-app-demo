@@ -5,7 +5,7 @@ import sys
 
 import eel
 
-from camera import Camera
+from lib.camera import Camera
 
 
 def parse_args():
