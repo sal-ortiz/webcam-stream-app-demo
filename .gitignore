@@ -1,0 +1,7 @@
+# OS artifacts
+.DS_Store
+desktop.ini
+
+# Python artifacts
+env
+__pycache__

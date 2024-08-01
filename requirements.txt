@@ -1,0 +1,17 @@
+bottle==0.12.25
+bottle-websocket==0.2.9
+cffi==1.16.0
+Eel==0.17.0
+future==1.0.0
+gevent==24.2.1
+gevent-websocket==0.10.1
+greenlet==3.0.3
+Jinja2==3.1.4
+MarkupSafe==2.1.5
+numpy==2.0.1
+opencv-python==4.10.0.84
+pycparser==2.22
+pyparsing==3.1.2
+whichcraft==0.6.1
+zope.event==5.0
+zope.interface==6.4.post2
