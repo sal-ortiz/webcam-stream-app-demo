@@ -57,7 +57,7 @@ options = {
 }
 
 usage_msg = f"""
-    usage: { sys.argv[0] }
+    usage: { sys.argv[0] } [FLAGS]
         --help                  show this usage text
         --snapshots <folder>    override default snapshots folder [snapshots]
         --device <id>           override default device id [0]
