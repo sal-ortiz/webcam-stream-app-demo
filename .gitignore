@@ -5,3 +5,6 @@ desktop.ini
 # Python artifacts
 env
 __pycache__
+
+# avoid commitingt snapshots
+snapshots/*
